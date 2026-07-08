@@ -64,7 +64,7 @@ Cybersecurity specialist
 
 ### Dashboard
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](WhatsApp_image_2026-7-08_at_14.56.47[1].jpeg)
 
 ### Threat Detection
 
