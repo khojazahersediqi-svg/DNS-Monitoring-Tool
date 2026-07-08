@@ -60,6 +60,21 @@ Computer Science Student
 Cybersecurity specialist
 
 
+## Screenshots
+
+### Dashboard
+
+![Dashboard](Screenshots/dashboard.png)
+
+### Threat Detection
+
+![Threat Detection](Screenshots/alerts.png)
+
+### DNS Monitoring
+
+![DNS Monitoring](Screenshots/dns-monitor.png)
+
+
 
 
 
